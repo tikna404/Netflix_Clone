@@ -6,6 +6,10 @@ Welcome to the Netflix Clone frontend project! This README will guide you throug
 
 This project is a Netflix clone that aims to replicate the basic functionality and design of Netflix's frontend. It is built using HTML, CSS, and JavaScript.
 
+## Demo
+
+You can check out a live demo of the project [here](https://tikna404.github.io/Netflix_Clone/)
+
 ## Project Structure
 
 The project directory structure is as follows:
